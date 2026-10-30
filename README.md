@@ -55,7 +55,7 @@ forge_installer                   Forge 安装器
 
 ## 许可证
 
-本项目以 GNU 通用公共许可证第三版分发。其中移植自 Fold Craft Launcher（GPLv3）的部分同样受该许可证约束。
+本项目以 GNU 通用公共许可证第三版分发，许可证全文见仓库根目录的 `LICENSE` 文件。其中移植自 Fold Craft Launcher（GPLv3）的部分同样受该许可证约束。
 
 主要第三方组件及其许可证：
 
@@ -96,4 +96,4 @@ UniversalClientLauncher is an unofficial Minecraft: Java Edition launcher for An
 
 This repository contains source code only. Interface resources, fonts, icons, native binaries, build scripts and signing material are not included, so the repository cannot be built on its own.
 
-The launcher is distributed under the GNU General Public License version 3, and the 3D character preview is ported from Fold Craft Launcher (GPL-3.0). It is not affiliated with, endorsed by or sponsored by Mojang Studios or Microsoft.
+The launcher is distributed under the GNU General Public License version 3, whose full text is in the `LICENSE` file, and the 3D character preview is ported from Fold Craft Launcher (GPL-3.0). It is not affiliated with, endorsed by or sponsored by Mojang Studios or Microsoft.
